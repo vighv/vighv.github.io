@@ -1,2 +1,0 @@
-# Vighnesh Vatsal
-Personal Webpag
