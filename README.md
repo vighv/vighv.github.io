@@ -1,2 +1,2 @@
 # Vighnesh Vatsal
-Personal Webpag
+Personal Webpage
