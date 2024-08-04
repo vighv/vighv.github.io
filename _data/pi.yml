@@ -1,17 +1,18 @@
-- name: Dr. Richard Feynman
+- name: Dr. Vighnesh Vatsal
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  info: Scientist, TCS Research
+  email: vighnesh.vatsal@gmail.com
+  github: https://github.com/vighv
+  #researchgate: https://www.researchgate.net/
+  scholar: https://scholar.google.com/citations?user=U8sX8OAAAAAJ&hl=en
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2020) Ph.D. Mechanical Engineering, Cornell University",
+      "(2018) M.S. Mechanical Engineering, Cornell University",
+      "(2015) B.Tech and M.Tech. Mechanical Engineering, Indian Institute of Technology Bombay",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2020) PhD, Cornell University", "(2015) B.Tech. and M.Tech. IIT Bombay"]
