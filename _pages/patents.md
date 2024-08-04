@@ -24,5 +24,5 @@ permalink: /patents/
 
 <div class="jumbotron">
 ### Patents
-{% bibliography --query @incollection[keywords ^= invited] %}
+
 </div>
